@@ -133,7 +133,7 @@ const App: React.FC = () => {
       pocketTitle: "Pocket",
       doingTitle: "Activity",
       doingDesc: "Mostly gaming and hanging out on Discord talking to people. Not doing anything big right now, just chilling lol. And I love Hatsune Miku as you can see :P",
-      schoolTitle: "Cloud School",
+      schoolTitle: "My (Online) School",
       schoolSummary: "Many people ask how it's like to study online from home, so here is my answer...",
       schoolDesc: "Basically, I don't have to study that much, so I have time for whatever I want, but let's focus on how the learning actually works. I'm mostly self-taught using the internet or AI tools. To pass a subject, I take exams consisting of two parts: written and oral. The written part is a simple worksheet where you complete the tasks and get a percentage score once you finish. The oral part is more interesting because you actually talk to an examiner. There are 3 ways to do it: \n\n1. Topics, which are available on the platform as a PDF with questions to prepare for. During the exam, they pick about 3 random ones. There's also a 'lifebuoy' option you can use to swap a question lol. \n\n2. Project or Presentation, which is my go-to choice. I create a presentation on a topic from the curriculum, and the examiner grades my performance as well as my knowledge. \n\n3. Discussion, but I haven't tried this one yet, so I can't say much about it. \n\nOnce you pass, you get a grade from 1 to 6 at the end of the year. That's pretty much it! :3",
       langSwitch: "PL",
